@@ -51,9 +51,9 @@ Commonly used names (in order of importance):
 
 ### Precedence
 
-`0.0.0` < `0.0.1-alpha.0` < `0.0.1-alpha.8` < `0.0.1-beta` < `0.0.1-beta.1` < `0.0.1-rc` < `0.0.1` < `0.1.0` < `1.0.0`
+`0.1.0` < `0.1.1-alpha.0` < `0.1.1-alpha.8` < `0.1.1-beta` < `0.1.1-beta.1` < `0.1.1-rc` < `0.1.1` < `0.2.0` < `1.0.0`
 
-Please note that during the initial development stage the major version must remain `0`.
+Please note that during the initial development stage the major version must remain `0`: the first release should be `0.1.0`.
 
 ## Commits
 
